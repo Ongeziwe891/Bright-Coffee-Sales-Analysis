@@ -42,10 +42,10 @@ Identification of peak sales hours
 Trend analysis by day and month
 Customer purchasing patterns
 Best-selling products
+
 📈 **Dashboard Insights**
 
 The dashboard includes:
-
 Total revenue by product type
 Peak time intervals for sales
 Quantity sold by category
