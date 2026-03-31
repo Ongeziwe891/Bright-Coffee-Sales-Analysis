@@ -62,9 +62,9 @@ Introduce targeted promotions during low-sales periods
 Expand popular product categories
 Improve product placement and marketing strategies
 
-📅 **Submission Details**
+📅 **Submission Details :**
 Project Deadline: 31 March 2026
 
-👤 **Author**
+👤 **Author :**
 Ongeziwe Maduna
 Data Science Student
